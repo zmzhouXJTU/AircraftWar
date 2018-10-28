@@ -42,7 +42,7 @@ $ sudo pip3 install pygame
 ```bash
 $ python3 -m pygame.examples.aliens
 ```
-### 运行
+## 运行
 
 ```bash
 $ python3 plane_main.py
@@ -52,6 +52,6 @@ $ python3 plane_main.py
 * 此项目的所有详细`markdown`文档(记录整个项目的开发过程)在`document`目录下面，如有需要，请自行查看
 * 如果对于此项目的代码有任何问题，欢迎与本人联系，可在此仓库提交`Issues`即可
 
-### 参考
+## 参考
 
 本项目参考自<b>《传智播客》Python基础班项目实战</b>，在此表示感谢
